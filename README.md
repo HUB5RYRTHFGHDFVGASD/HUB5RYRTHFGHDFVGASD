@@ -505,3 +505,7 @@ MainSection:NewButton("FE Gaint", "", function()
     loadstring(game:HttpGet("https://🤡🤡🤡🤡🤡🤡🤡.tk/scripts/just_grass_giant.lua"))()
 end)
 
+MainSection:NewButton("FE Gaming setup", "", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/9qnY2Fwp'),true))()
+end)
+
