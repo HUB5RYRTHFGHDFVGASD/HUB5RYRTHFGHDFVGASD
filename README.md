@@ -509,3 +509,10 @@ MainSection:NewButton("FE Gaming setup", "", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/9qnY2Fwp'),true))()
 end)
 
+
+--Fe DinoBlox
+
+
+MainSection:NewButton("Fe DinoBlox", "code in discord", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/PYXDYT/DinoBlox/main/FE%20Script'),true))()
+end)
