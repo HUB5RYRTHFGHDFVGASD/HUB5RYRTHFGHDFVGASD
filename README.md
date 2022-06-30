@@ -516,3 +516,14 @@ end)
 MainSection:NewButton("Fe DinoBlox", "code in discord", function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/PYXDYT/DinoBlox/main/FE%20Script'),true))()
 end)
+
+
+--FE HAT HUB
+
+MainSection:NewButton("HAT HUB Synapse  VERION", "code in discord", function()
+    loadstring(game:HttpGet("https://textbin.net/raw/n9s5fjeynu "))();
+end)
+
+MainSection:NewButton("HAT HUB NORMAL  VERION", "code in discord", function()
+    loadstring(game:HttpGet("https://textbin.net/raw/vxrnz4q6p2"))();
+end)
